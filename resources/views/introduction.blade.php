@@ -12,6 +12,9 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
 
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Arima+Madurai|Raleway" rel="stylesheet">
+
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -26,7 +29,9 @@
         body,
         .view {
             height: 100%;
+            font-family: 'Arima Madurai', 'cursive';
         }
+
         /* Navigation*/
         
         .navbar {
@@ -60,7 +65,7 @@
         }
         
         .view {
-            background: url("http://mdbootstrap.com/images/regular/city/img%20(17).jpg")no-repeat center center fixed;
+            background: url("img/tea-001.jpg")no-repeat center center fixed;
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
@@ -170,7 +175,7 @@
 
                         <!--Card image-->
                         <div class="view overlay hm-white-slight">
-                            <img src="http://mdbootstrap.com/img/Photos/Horizontal/City/4-col/img%20(3).jpg" class="img-fluid" alt="">
+                            <img src="img/oolongtea.jpg" class="img-fluid" alt="">
                             <a>
                                 <div class="mask"></div>
                             </a>
@@ -180,7 +185,7 @@
                         <!--Card content-->
                         <div class="card-block text-xs-center">
                             <!--Title-->
-                            <h4 class="card-title">Card title</h4>
+                            <h4 class="card-title">Oolong Tea</h4>
                             <hr>
                             <!--Text-->
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident fuga animi architecto dolores dicta cum quo velit.</p>
@@ -199,7 +204,7 @@
 
                         <!--Card image-->
                         <div class="view overlay hm-white-slight">
-                            <img src="http://mdbootstrap.com/img/Photos/Horizontal/City/4-col/img%20(15).jpg" class="img-fluid" alt="">
+                            <img src="img/blacktea.jpg" class="img-fluid" alt="">
                             <a>
                                 <div class="mask"></div>
                             </a>
@@ -209,7 +214,7 @@
                         <!--Card content-->
                         <div class="card-block text-xs-center">
                             <!--Title-->
-                            <h4 class="card-title">Card title</h4>
+                            <h4 class="card-title">Black Tea</h4>
                             <hr>
                             <!--Text-->
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident fuga animi architecto dolores dicta cum quo velit.</p>
@@ -228,7 +233,7 @@
 
                         <!--Card image-->
                         <div class="view overlay hm-white-slight">
-                            <img src="http://mdbootstrap.com/img/Photos/Horizontal/City/4-col/img%20(18).jpg" class="img-fluid" alt="">
+                            <img src="img/greentea.jpg" class="img-fluid" alt="">
                             <a>
                                 <div class="mask"></div>
                             </a>
@@ -238,7 +243,7 @@
                         <!--Card content-->
                         <div class="card-block text-xs-center">
                             <!--Title-->
-                            <h4 class="card-title">Card title</h4>
+                            <h4 class="card-title">Green Tea</h4>
                             <hr>
                             <!--Text-->
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident fuga animi architecto dolores dicta cum quo velit.</p>
@@ -257,7 +262,7 @@
 
                         <!--Card image-->
                         <div class="view overlay hm-white-slight">
-                            <img src="http://mdbootstrap.com/img/Photos/Horizontal/City/4-col/img%20(20).jpg" class="img-fluid" alt="">
+                            <img src="img/whitetea.jpg" class="img-fluid" alt="">
                             <a>
                                 <div class="mask"></div>
                             </a>
@@ -267,7 +272,7 @@
                         <!--Card content-->
                         <div class="card-block text-xs-center">
                             <!--Title-->
-                            <h4 class="card-title">Card title</h4>
+                            <h4 class="card-title">White Tea</h4>
                             <hr>
                             <!--Text-->
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident fuga animi architecto dolores dicta cum quo velit.</p>
@@ -294,7 +299,7 @@
                 <div class="col-md-7">
                     <!--Featured image -->
                     <div class="view overlay hm-white-light z-depth-1-half">
-                        <img src="http://mdbootstrap.com/images/proffesions/slides/socialmedia/img%20(2).jpg" class="img-fluid " alt="">
+                        <img src="img/allabouttea.jpg" class="img-fluid " alt="">
                         <div class="mask">
                         </div>
                     </div>
@@ -303,10 +308,10 @@
 
                 <!--Main information-->
                 <div class="col-md-5">
-                    <h2 class="h2-responsive">We are professionals</h2>
+                    <h2 class="h2-responsive">It's all about tea!</h2>
                     <hr>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis pariatur quod ipsum atque quam dolorem voluptate officia sunt placeat consectetur alias fugit cum praesentium ratione sint mollitia, perferendis natus quaerat!</p>
-                    <a href="" class="btn btn-primary">Get it now!</a>
+                    <a href="" class="btn btn-primary">Read more...</a>
                 </div>
             </div>
             <!--/.First row-->
